@@ -1,0 +1,10 @@
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\bin\Debug\TesteDeControles.exe.config
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\bin\Debug\TesteDeControles.exe
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\bin\Debug\TesteDeControles.pdb
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.Form1.resources
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.Properties.Resources.resources
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.csproj.GenerateResource.cache
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.csproj.CoreCompileInputs.cache
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.exe
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.pdb
+C:\Users\paesbru\Desktop\Projeto\TesteDeControles\TesteDeControles\obj\Debug\TesteDeControles.csprojAssemblyReference.cache

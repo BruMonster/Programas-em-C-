@@ -1,0 +1,10 @@
+C:\Users\paesbru\Desktop\Projeto\App1\App1\bin\Debug\App1.exe.config
+C:\Users\paesbru\Desktop\Projeto\App1\App1\bin\Debug\App1.exe
+C:\Users\paesbru\Desktop\Projeto\App1\App1\bin\Debug\App1.pdb
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.Form1.resources
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.Properties.Resources.resources
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.exe
+C:\Users\paesbru\Desktop\Projeto\App1\App1\obj\Debug\App1.pdb
